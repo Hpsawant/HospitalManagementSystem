@@ -1,0 +1,17 @@
+@charset "UTF-8";
+.about-page{
+            
+            min-height:530px;
+            position: relative;
+           
+        }
+        .container{
+        
+            position: absolute;
+            top:10%;
+            max-width:800px;
+            background-color:white;
+            margin-left:100px;
+            padding: 16px;
+        
+        }
